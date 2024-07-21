@@ -1,0 +1,15 @@
+D:\EDUCATION\Collage\level 4\2\Parrarell\Code\demoo_Sever\demoo_Sever\bin\Debug\demoo_Sever.exe.config
+D:\EDUCATION\Collage\level 4\2\Parrarell\Code\demoo_Sever\demoo_Sever\bin\Debug\demoo_Sever.exe
+D:\EDUCATION\Collage\level 4\2\Parrarell\Code\demoo_Sever\demoo_Sever\bin\Debug\demoo_Sever.pdb
+D:\EDUCATION\Collage\level 4\2\Parrarell\Code\demoo_Sever\demoo_Sever\obj\Debug\demoo_Sever.csproj.AssemblyReference.cache
+D:\EDUCATION\Collage\level 4\2\Parrarell\Code\demoo_Sever\demoo_Sever\obj\Debug\demoo_Sever.csproj.SuggestedBindingRedirects.cache
+D:\EDUCATION\Collage\level 4\2\Parrarell\Code\demoo_Sever\demoo_Sever\obj\Debug\demoo_Sever.Form1.resources
+D:\EDUCATION\Collage\level 4\2\Parrarell\Code\demoo_Sever\demoo_Sever\obj\Debug\demoo_Sever.Properties.Resources.resources
+D:\EDUCATION\Collage\level 4\2\Parrarell\Code\demoo_Sever\demoo_Sever\obj\Debug\demoo_Sever.csproj.GenerateResource.cache
+D:\EDUCATION\Collage\level 4\2\Parrarell\Code\demoo_Sever\demoo_Sever\obj\Debug\demoo_Sever.csproj.CoreCompileInputs.cache
+D:\EDUCATION\Collage\level 4\2\Parrarell\Code\demoo_Sever\demoo_Sever\obj\Debug\demoo_Sever.exe
+D:\EDUCATION\Collage\level 4\2\Parrarell\Code\demoo_Sever\demoo_Sever\obj\Debug\demoo_Sever.pdb
+D:\EDUCATION\Collage\level 4\2\Network programming\Project_3mly\demoo_Sever\demoo_Sever\obj\Debug\demoo_Sever.csproj.AssemblyReference.cache
+D:\EDUCATION\Collage\level 4\2\Network programming\Project_3mly\demoo_Sever\demoo_Sever\obj\Debug\demoo_Sever.csproj.SuggestedBindingRedirects.cache
+D:\EDUCATION\Collage\level 4\2\Network programming\Project_3mly\demoo_Sever\demoo_Sever\obj\Debug\demoo_Sever.Properties.Resources.resources
+D:\EDUCATION\Collage\level 4\2\Network programming\Project_3mly\demoo_Sever\demoo_Sever\obj\Debug\demoo_Sever.csproj.GenerateResource.cache

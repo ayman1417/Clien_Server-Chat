@@ -1,0 +1,11 @@
+D:\EDUCATION\Collage\level 4\2\Parrarell\Code\Demo_Client\Demo_Client\bin\Debug\Demo_Client.exe.config
+D:\EDUCATION\Collage\level 4\2\Parrarell\Code\Demo_Client\Demo_Client\bin\Debug\Demo_Client.exe
+D:\EDUCATION\Collage\level 4\2\Parrarell\Code\Demo_Client\Demo_Client\bin\Debug\Demo_Client.pdb
+D:\EDUCATION\Collage\level 4\2\Parrarell\Code\Demo_Client\Demo_Client\obj\Debug\Demo_Client.csproj.AssemblyReference.cache
+D:\EDUCATION\Collage\level 4\2\Parrarell\Code\Demo_Client\Demo_Client\obj\Debug\Demo_Client.csproj.SuggestedBindingRedirects.cache
+D:\EDUCATION\Collage\level 4\2\Parrarell\Code\Demo_Client\Demo_Client\obj\Debug\Demo_Client.Form1.resources
+D:\EDUCATION\Collage\level 4\2\Parrarell\Code\Demo_Client\Demo_Client\obj\Debug\Demo_Client.Properties.Resources.resources
+D:\EDUCATION\Collage\level 4\2\Parrarell\Code\Demo_Client\Demo_Client\obj\Debug\Demo_Client.csproj.GenerateResource.cache
+D:\EDUCATION\Collage\level 4\2\Parrarell\Code\Demo_Client\Demo_Client\obj\Debug\Demo_Client.csproj.CoreCompileInputs.cache
+D:\EDUCATION\Collage\level 4\2\Parrarell\Code\Demo_Client\Demo_Client\obj\Debug\Demo_Client.exe
+D:\EDUCATION\Collage\level 4\2\Parrarell\Code\Demo_Client\Demo_Client\obj\Debug\Demo_Client.pdb
